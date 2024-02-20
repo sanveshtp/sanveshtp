@@ -8,7 +8,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sanveshtp&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanveshtp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=sanveshtp&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=sanveshtp&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sanveshtp&limit=5&theme=dracula&combine_all_yearly_contributions=true)
